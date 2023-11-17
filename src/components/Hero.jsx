@@ -12,12 +12,12 @@ const Hero = () => {
           </h2>
 
           <div className='inline-block-items'>
-            <button className='btn btn-dark uppercase'>start generating</button>
-
             <p className='para-last-line'>
               The Next generation <span className='text-black'>Production</span>{' '}
               for Designers
             </p>
+
+            <button className='btn btn-dark uppercase'>start generating</button>
           </div>
         </div>
         <FaStar className='star' />
