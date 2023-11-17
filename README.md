@@ -1,9 +1,16 @@
-# React + Vite
+# Pixel Perfect UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## **How to install and run locally ?**
 
-Currently, two official plugins are available:
+```
+git clone https://github.com/swastikpatro/pixel-perfect-ui.git
+cd pixel-perfect-ui/
+npm install
+$ npm run dev
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# pixel-perfect-ui
+[Live Link](https://pixel-perfect-ui.vercel.app/)
+
+## Screenshot: 
+![image](https://github.com/swastikpatro/pixel-perfect-ui/assets/113245457/eca8290b-57ef-48af-af0b-aec15d64818a)
+
