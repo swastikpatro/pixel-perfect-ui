@@ -6,7 +6,7 @@
 git clone https://github.com/swastikpatro/pixel-perfect-ui.git
 cd pixel-perfect-ui/
 npm install
-$ npm run dev
+npm run dev
 ```
 
 [Live Link](https://pixel-perfect-ui.vercel.app/)
