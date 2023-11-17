@@ -269,6 +269,7 @@ ul {
   align-items: flex-start;
   padding-top: 1rem;
   padding-bottom: 1rem;
+  width: 90vw;
 }
 
 .links-container {
@@ -282,6 +283,10 @@ ul {
 @media screen and (min-width: 768px) {
   nav {
     padding-top: 0.5rem;
+  }
+
+  .nav-center {
+    width: 95vw;
   }
 
   .links-container {
